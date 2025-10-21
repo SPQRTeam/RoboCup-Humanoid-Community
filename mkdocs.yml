@@ -12,8 +12,8 @@ nav:
 
 theme:
   name: material
-  favicon: assets/logo.png
-  logo: assets/logo_bw.png
+  # favicon: assets/logo.png
+  # logo: assets/logo_bw.png
   font:
     text: Red Hat Text
     code: JetBrains Mono

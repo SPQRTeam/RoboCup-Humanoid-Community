@@ -1,14 +1,14 @@
 /* Custom color scheme for SPQR Team */
 :root {
   /* Primary colors (header, navigation) */
-  --md-primary-fg-color:        #822433;  /* Blue header */
-  --md-primary-fg-color--light: #822433;  /* Lighter blue */
-  --md-primary-fg-color--dark:  #822433;  /* Darker blue */
+  --md-primary-fg-color:        #2c5824;  /* Blue header */
+  --md-primary-fg-color--light: #2c362a;  /* Lighter blue */
+  --md-primary-fg-color--dark:  #3c8130;  /* Darker blue */
 
   /* Accent colors (links, buttons) */
-  --md-accent-fg-color:         #a34454;  /* Accent color */
-  --md-accent-fg-color--light:  rgb(199, 103, 119);  /* Lighter accent color */
-  --md-accent-fg-color--dark:   #691523;  /* Darker accent color */
+  --md-accent-fg-color:         #c5953d;  /* Accent color */
+  --md-accent-fg-color--light:  #d8a950;  /* Lighter accent color */
+  --md-accent-fg-color--dark:   #a77a28;  /* Darker accent color */
 
   /* Background colors */
   --md-default-bg-color:        #ffffff;  /* Main background */
@@ -23,13 +23,13 @@
 
 /* Dark mode colors */
 [data-md-color-scheme="slate"] {
-  --md-primary-fg-color:        #822433;  /* Blue header for dark mode */
-  --md-primary-fg-color--light: #822433;
-  --md-primary-fg-color--dark:  #822433;
+  --md-primary-fg-color:        #2c5824;  /* Blue header for dark mode */
+  --md-primary-fg-color--light: #2c362a;
+  --md-primary-fg-color--dark:  #3c8130;
 
-  --md-accent-fg-color:         #bb5768;  /* Accent color for dark mode */
-  --md-accent-fg-color--light:  #d66f81;  /* Lighter accent color for dark mode*/
-  --md-accent-fg-color--dark:   #9b3f4e;  /* Darker accent color for dark mode*/
+  --md-accent-fg-color:         #c5953d;  /* Accent color for dark mode */
+  --md-accent-fg-color--light:  #d8a950;  /* Lighter accent color for dark mode*/
+  --md-accent-fg-color--dark:   #a77a28;  /* Darker accent color for dark mode*/
 
   --md-default-bg-color:        #262323;  /* Dark background */
   --md-default-fg-color:        #ffffff;  /* Light text */
