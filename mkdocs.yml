@@ -7,12 +7,8 @@ repo_name: SPQRTeam/spqrbooster
 
 nav:
   - Overview: index.md
-  - SPQRBOOSTER:
-    - Getting Started: spqrbooster/getting_started.md
-    - Framework Architecture: spqrbooster/framework_architecture.md
-  - CIRCUS:
-    - Getting Started: circus/getting_started.md
-    - Setup: circus/setup.md
+  - GUIDELINES:
+    - Getting Started: guidelines/getting_started.md
 
 theme:
   name: material
