@@ -2,7 +2,7 @@ site_name: SPQR Team
 site_description: SPQR Team Documentation
 copyright: "2025, SPQR Team"
 site_url: https://mydomain.org/mysite # TODO
-repo_url: https://github.com/SPQRTeam/spqrbooster2026.git
+repo_url: https://github.com/SPQRTeam/RoboCup-Humanoid-Community.git
 repo_name: SPQRTeam/spqrbooster
 
 nav:
