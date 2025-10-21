@@ -1,9 +1,9 @@
-site_name: SPQR Team
-site_description: SPQR Team Documentation
-copyright: "2025, SPQR Team"
+site_name: Robocup Humanoid Community
+site_description: Robocup Humanoid Community
+copyright: "2025, Robocup Humanoid Community"
 site_url: https://mydomain.org/mysite # TODO
 repo_url: https://github.com/SPQRTeam/RoboCup-Humanoid-Community.git
-repo_name: SPQRTeam/spqrbooster
+repo_name: Robocup Humanoid Community
 
 nav:
   - Overview: index.md
